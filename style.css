@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color:blueviolet; 
+}
+table, th, td {
+    border: 1px solid black;
+  }
+  .ok{
+    text-align: center;
+  }
