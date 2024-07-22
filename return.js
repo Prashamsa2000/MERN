@@ -8,4 +8,5 @@ function double(input) {
   return result;
 }
 
+
 console.log(sum(double(10), double(20)));
