@@ -201,7 +201,6 @@ let fruitsData = [
   },
 ]
 
-
 console.log(`The price of ${fruitsData[0].name} is ${fruitsData[0].price}`);
 console.log(`The price of ${fruitsData[1].name} is ${fruitsData[1].price}`);
 console.log(`The price of ${fruitsData[2].name} is ${fruitsData[2].price}`);
